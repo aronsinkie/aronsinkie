@@ -8,6 +8,13 @@
 
 <h1 align="center" class="animated-text">Hi 👋, I'm Aron Sinkie</h1>
 <h3 align="center" class="animated-text">A passionate Generative AI Engineer</h3>
+<div align="center">
+  <h2 align="center">Stats +</h2>
+  <img width="390" src="https://streak-stats.demolab.com/?user=aronsinkie&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=salespe7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aronsinkie&layout=compact&theme=react&border_radius=10" alt="top languages stats"/>
+</div>
+
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=aronsinkie&count_private=true&show_icons=true&theme=prussian" width="400">
