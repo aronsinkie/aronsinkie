@@ -5,20 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+;+I'm+Aron+Sinkie" alt="Typing SVG">
   </a>
 </h1>
+<h1 align="center">Hi 👋, I'm Aron Sinkie</h1>
+<h3 align="center">A passionate Generative AI Engineer</h3>
 
-<h1 align="center" class="animated-text">Hi 👋, I'm Aron Sinkie</h1>
-<h3 align="center" class="animated-text">A passionate Generative AI Engineer</h3>
-<div align="center">
-  <h2 align="center">Stats +</h2>
-  <img width="390" src="https://streak-stats.demolab.com/?user=aronsinkie&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=salespe7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aronsinkie&layout=compact&theme=react&border_radius=10" alt="top languages stats"/>
-</div>
-
-
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aronsinkie&count_private=true&show_icons=true&theme=prussian" width="400">
-  <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aronsinkie&label=Profile%20views&color=0e75b6&style=flat" alt="aronsinkie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronsinkie" alt="aronsinkie" /></a> </p>
