@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aron Sinkie</h1>
-<h3 align="center">A passionate Generative AI Engineer</h3>
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes slideIn {
+  0% { transform: translateY(50px); }
+  100% { transform: translateY(0); }
+}
+
+.animated-text {
+  animation: fadeIn 1s ease-in-out, slideIn 1s ease-in-out;
+}
+</style>
+
+<h1 align="center" class="animated-text">Hi 👋, I'm Aron Sinkie</h1>
+<h3 align="center" class="animated-text">A passionate Generative AI Engineer</h3>
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=aronsinkie&count_private=true&show_icons=true&theme=prussian" width="400">
