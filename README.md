@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aron Sinkie</h1>
 <h3 align="center">A passionate Generative AI Engineer</h3>
 
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aronsinkie&count_private=true&show_icons=true&theme=prussian" width="400">
+  <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aronsinkie&label=Profile%20views&color=0e75b6&style=flat" alt="aronsinkie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronsinkie" alt="aronsinkie" /></a> </p>
