@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada</h3>
-
 <h1 align="center" class="animated-text">Hi 👋, I'm Aron Sinkie</h1>
 <h3 align="center" class="animated-text">A passionate Generative AI Engineer</h3>
 
