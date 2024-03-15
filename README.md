@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Aron Sinkie</h1>
+<h1 align="center">Hi 👋, I'm Aron Sinkie</h1>
 <h3 align="center">A passionate Generative AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aronsinkie&label=Profile%20views&color=0e75b6&style=flat" alt="aronsinkie" /> </p>
