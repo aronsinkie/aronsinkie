@@ -1,4 +1,4 @@
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=aronsinkie&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <h2 align="center">Stats +</h2>
   <img width="390" src="https://streak-stats.demolab.com/?user=aronsinkie&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
