@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronsinkie&theme=merko" alt="AronSinkie" /> </p> 
 
-![Aron's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=aronsinkie&show_icons=true&theme=merko) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aronsinkie&show_icons=true&locale=en" alt="aronsinkie" /></p>
+![Aron's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=aronsinkie&show_icons=true&theme=merko) <p>&nbsp;
