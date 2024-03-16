@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+;+I'm+Aron+Sinkie" alt="Typing SVG">
   </a>
 </h1>
-<h1 align="center">Hi 👋, I'm Aron Sinkie</h1>
-<h3 align="center">A passionate Generative AI Engineer</h3>
+<h1 align="center">A passionate Generative AI Engineer</h1>
+<h3 align="center">Coding without version control is like sailing without a compass.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aronsinkie&label=Profile%20views&color=0e75b6&style=flat" alt="aronsinkie" /> </p>
 
