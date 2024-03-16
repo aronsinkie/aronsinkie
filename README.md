@@ -48,3 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronsinkie&" alt="aronsinkie" /></p>
 
+![Ayushi's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=aronsinkie&show_icons=true&theme=merko)
