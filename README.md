@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aronsinkie&show_icons=true&locale=en" alt="aronsinkie" /></p>
 
 ![Aron's GitHub stats](https://github-readme-stats-two-nu-79.vercel.app/api?username=aronsinkie&show_icons=true&theme=merko) <p>&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats-two-nu-79.vercel.app/api?username=aronsinkie&show_icons=true&theme=merko" alt="Aron's GitHub stats" />
+</p>
