@@ -9,11 +9,7 @@
 <h1 align="center">A passionate Generative AI Engineer</h1>
 <h3 align="center">Coding without version control is like sailing without a compass.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aronsinkie&label=Profile%20views&color=0e75b6&style=flat" alt="aronsinkie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronsinkie" alt="aronsinkie" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Contract RAG chatbot](https://github.com/aronsinkie/Contract-Advisor-RAG-Towards-Building-A-High-Precision-Legal-Expert-LLM-APP)
 
@@ -22,7 +18,11 @@
 - 🤝 I’m looking for help with [LLM for Amharic Languge](https://github.com/aronsinkie/Semitic-NLP)
 
 - 📫 How to reach me **birliesinkie2010@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aronsinkie&label=Profile%20views&color=0e75b6&style=flat" alt="aronsinkie" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aronsinkie" alt="aronsinkie" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
